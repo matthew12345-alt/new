@@ -1,2 +1,1 @@
- .github/workflows/build-apk.yml
-     app/...
+/
